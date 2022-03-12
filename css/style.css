@@ -1,0 +1,267 @@
+
+/* 
+
+#2A363B
+#E84A5F
+#FF847C
+#FECEA8
+
+*/
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    font-family: 'Roboto', sans-serif !important;
+		
+}
+/* navbar start    */
+.navbar{
+	background-color: #FF847C;
+	
+}
+.navbar-brand{
+	padding-left: 20px;
+}
+.nav-item{
+	padding-left: 20px;
+	
+	
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+
+.d-flex{
+	padding-left: 120px;
+	width: 40%;
+	padding-right: 10px;
+}
+/* navbar end    */
+/* slider start */
+.bg{
+	background-color: #FECEA8;
+	height: 800px;
+}
+
+.price{
+	color: #E84A5F;
+	font-weight: 600;
+	padding-bottom: 20px;
+}
+.slide-img{
+	height: 700px;
+	padding: 10px 50px;
+	width: 800px;
+
+}
+.slide-text h1{
+font-weight: 700;
+
+}
+.buy-now-button{
+	background-color: #FF847C;
+	border-radius: 10px;
+	
+}
+.slide-text{
+	font-size: 50px;
+	padding: 50px 90px;
+}
+.electronics{
+	padding-top: 50px;
+	padding-right: 30px;
+
+}
+.furniture{
+	padding-top: 140px;
+}
+.cosmetics{
+	padding-top: 140px;
+	padding-right: 30px;
+}
+/* slider end */
+/* features start */
+.shoe{
+	padding-top: 100px;
+	height: 800px;
+}
+.cat1{
+	background-color: #E84A5F;
+	height: 80px;
+	width: 200px;
+	margin: auto;
+	border-radius: 10px;
+	margin-bottom: 50px;
+}
+.cat1 h3{
+	padding-top: 20px;
+	padding-bottom: 20px ;
+	padding-left: 59px;
+	padding-right: 10px;
+}
+.card{
+	border: none;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 10px;
+	margin: auto;
+	
+}
+.card-title{
+	font-weight: 700;
+}
+.backpack{
+	
+	height: 800px;
+}
+.cat2{
+	background-color: #E84A5F;
+	height: 80px;
+	width: 200px;
+	margin: auto;
+	border-radius: 10px;
+	margin-bottom: 50px;
+}
+.cat2 h3{
+	padding-top: 20px;
+	padding-bottom: 20px ;
+	padding-left: 34px;
+	padding-right: 10px;
+}
+.Electronics{
+	
+	height: 800px;
+}
+.cat3{
+	background-color: #E84A5F;
+	height: 80px;
+	width: 200px;
+	margin: auto;
+	border-radius: 10px;
+	margin-bottom: 50px;
+}
+.cat3 h3{
+	padding-top: 20px;
+	padding-bottom: 20px ;
+	padding-left: 32px;
+	padding-right: 10px;
+}
+.feacture-btn{
+	background-color: #FF847C;
+	border-radius: 10px;
+	margin-left: 80px;
+	
+}
+.Toys{
+	height: 800px;
+}
+.cat4{
+	background-color: #E84A5F;
+	height: 80px;
+	width: 200px;
+	margin: auto;
+	border-radius: 10px;
+	margin-bottom: 50px;
+}
+.cat4 h3{
+	padding-top: 20px;
+	padding-bottom: 20px ;
+	padding-left: 67px;
+	padding-right: 10px;
+}
+.Cosmetics{
+	height: 800px;
+}
+.cat5{
+	background-color: #E84A5F;
+	height: 80px;
+	width: 200px;
+	margin: auto;
+	border-radius: 10px;
+	margin-bottom: 50px;
+	
+	
+}
+.cat5 h3{
+	padding-top: 20px;
+	padding-bottom: 20px ;
+	padding-left: 35px;
+	padding-right: 10px;
+}
+.progress-area h1{
+font-weight: 700;
+margin-left: 780px;
+margin-bottom: 10px;
+color: #E84A5F;
+}
+.progess-bg{
+	background-color: #FF847C;
+	height: 400px;
+	
+margin-bottom: 100px;
+	width: 1200px;
+	border-radius: 10px;
+}
+.progress{
+	height: 50px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 30px;
+}
+.progress-text{
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	margin-top: 25px;
+}
+.progress-text h3{
+	padding-bottom: 60px;
+	margin-left: 30px;
+}
+
+.contact-bg{
+	background-color: #FECEA8;
+	height: 300px;
+	width: 100%;
+	
+}
+#contactus h3{
+	font-weight: 700;
+	margin-right: 121px;
+}
+#contactus h6{
+	color: #E84A5F;
+}
+#contactus .inp{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;		
+}
+.contact-btn{
+	background-color: #FF847C;
+	border-radius: 10px;
+	margin-left: 110px;
+}
+.inp{
+	margin-left: 45px;
+}
+.contact-info{
+	background-color: #000;
+	height: 400px;
+}
+.list-unstyled{
+	color: #E84A5F;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 170px;
+	margin-right: 100px;
+	font-size: 20px;
+}
+.list-unstyled li a{
+	color: #E84A5F;
+	text-decoration: none;
+} 
+
+
+
+
+
+
+
